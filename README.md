@@ -25,7 +25,7 @@ Modern ve minimalist tasarıma sahip kişisel CV web sitesi. React kullanılarak
 Projeyi yerel ortamınızda çalıştırmak için:
 
 ```bash
-git clone https://github.com/eray-can/react-eray.git
+git clone git@github.com:eray-can/eray-react.git
 
 cd react-eray
 
